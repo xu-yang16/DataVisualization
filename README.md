@@ -1,4 +1,4 @@
-# DataVisualization
+# DataVisualization🐥
 
 [![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?style=flat-square)](https://github.com/RichardLitt/standard-readme)
 
@@ -20,4 +20,4 @@
 
 ## 使用许可
 
-[MIT](LICENSE) © Richard Littauer
+[MIT](LICENSE) © YX
