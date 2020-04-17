@@ -20,5 +20,5 @@ plt.xlabel('分数范围')#x轴名称
 plt.ylabel('分数等级')#y轴名称
 plt.grid(False)#显示网格线
 plt.legend(labels = ('男孩','女孩'),loc='upper right')
-
+plt.savefig('./ScatterPlot.png')
 plt.show()

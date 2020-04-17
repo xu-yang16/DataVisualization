@@ -23,5 +23,5 @@ x = np.arange(1,5)
 plt.plot(x, 3*x, 'r--') # r, g, b, k
 plt.plot(x, np.exp(x), 'b^') # -和--虚线, s正方形, ^三角形
 plt.legend(labels = ('exp','log'),loc='upper left')
-
+plt.savefig('./Color_and_Type.png')
 plt.show()

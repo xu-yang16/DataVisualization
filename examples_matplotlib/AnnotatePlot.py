@@ -15,4 +15,5 @@ plt.annotate('local max', xy=(2, 1), xytext=(3, 1.5),
              )
 
 plt.ylim(-2, 2)
+plt.savefig('./AnnotatePlot.png')
 plt.show()
